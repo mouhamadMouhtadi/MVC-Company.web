@@ -1,0 +1,12 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+
+# Other
+*.log
+*.DS_Store
